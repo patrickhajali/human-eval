@@ -1,10 +1,10 @@
-Modified version of Sanger2000's fork. 
-
 # HumanEval: Hand-Written Evaluation Set 
 
 This is an evaluation harness for the HumanEval problem solving dataset
 described in the paper "[Evaluating Large Language Models Trained on
 Code](https://arxiv.org/abs/2107.03374)".
+
+(Modified version of Sanger2000's fork.)
 
 ## Installation
 
